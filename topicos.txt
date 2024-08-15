@@ -1,0 +1,29 @@
+- Deficiências.
+	- Deficiência auditiva.
+	- Deficiências no meio educacional.
+
+- Inclusão social
+	- Sociedade
+	- Responsabilidade das pessoas na inclusão social
+
+- Comunicação.
+	- Comunicação de ouvintes.
+	- Comunicação de não ouvintes.
+	- Comunicação de ouvintes para com não ouvintes.
+
+- LIBRAS.
+	- Aprendizado.
+
+- Tecnologia
+	- Influência da tecnologia na sociedade.
+	- Tecnologia na área de acessssibilidades especiais.
+
+- Programação
+	- Lógicas de programação
+
+- Linguagens
+	- HTML
+	- CSS
+	- C#
+
+
