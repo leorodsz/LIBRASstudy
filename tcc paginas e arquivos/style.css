@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.boximg{
+    width: 550px;
+    height: 550px;
+    float: right   ;
+    margin-right: 200px;
+    margin-top: 15px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+  
+}
+
+.img-alfabeto{
+    width: 500px;
+    height: 500px;
+}
+
